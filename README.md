@@ -8,8 +8,11 @@ Eventually, a certificate validates the proper participation in the course.
 
 ## Table of content
 Section 1: Course introduction
+
 Section 2: The basics of R Shiny
+
 Section 3: Publishing and advanced concepts of Shiny
+
 Section 4: Course project
 
 ## Ressources
