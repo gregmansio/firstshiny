@@ -20,6 +20,7 @@ attach(mining)
 # Download and Reading of the file
 ##########----------------------------
 
+
 csvudemy <- tempfile()
 download.file("https://att-c.udemycdn.com/2016-12-13_01-49-14-3df32750885cd4e0d78389c106e0ff30/original.csv?response-content-disposition=attachment%3B+filename%3Dcourse_proj_data.csv&Expires=1621437532&Signature=LuvBUJ8CIGw9sizalIUNr6DqJeDln3DDP-8NEtV2OvcHNHHhpCaO8DcwKyYc9kR6YPynh41vkBi~stJ1nASgs8p3hUzqI0WK2QA7bsN9jby-FHBMVAR719S8JenW8Mx7Cfv6n0A7N3VSzPh8ARkfxcPa6-xD6h4Dh-TlkzKYlm3Jmtk78J5zm~FHiPGSHH7q~T~wC1PorNxyPKewALt9LW9uUc~oCbR7--MWNjOqbJxb9~AWSNMT0RWV~q4zRERenUPU~IeIJw9c4~a9jktDB25KOPoI220Q6HUmVyo7JOGN7mCemvegimnns7EGrJwkJx4jFDwTXhCtTAHzE7MHXg__&Key-Pair-Id=APKAITJV77WS5ZT7262A", csvudemy)
 
