@@ -1,3 +1,9 @@
+####################
+# WD check
+####################
+
+wd <- getwd()
+
 ## Simple datatable
 
 library(shiny)
@@ -121,7 +127,7 @@ shinyApp(ui = ui, server = server)
 
 ## Advanced Plot with csv export
 
-server <- function(input,output, session) {
+server <- function(input, output, session) {
   
   library(ggplot2) # for the diamonds dataset, and ggplot feature
   library(DT) # for the dataTableOutput
